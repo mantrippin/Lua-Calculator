@@ -25,6 +25,6 @@ if operator == "/" or "divide" then
    local devide = num1 / num2
    print(devide) 
 --And finally dividing
-print ("Made by mantrippin")
+print ("Made by manstrippin")
 end
 io.read()    
